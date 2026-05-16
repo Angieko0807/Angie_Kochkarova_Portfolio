@@ -22,6 +22,6 @@ Hello world! Welcome to my portfolio website.
 
 ## Assignment Links
 
-- [Introduction to Quarto](intro-to-qmd.html)
+- [Introduction to Quarto](a01.html)
 
-- [Data Cleaning Assignment](data-cleaning.html)
+- [Data Cleaning Assignment](a03.html)
