@@ -4,3 +4,24 @@ author: "Angie Kochkarova"
 format: html
 ---
 
+---
+title: "My Course Portfolio"
+format: html
+---
+
+# Welcome
+
+Hello world! Welcome to my portfolio website.
+
+## Course Lessons
+
+- Introduction to Literate Analysis Using Quarto
+- Tidy Data
+- Cleaning and Wrangling Data
+- Data Visualization
+
+## Assignment Links
+
+- [Introduction to Quarto](intro-to-qmd.html)
+
+- [Data Cleaning Assignment](data-cleaning.html)
