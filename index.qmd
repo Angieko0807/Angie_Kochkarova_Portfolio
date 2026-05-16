@@ -22,6 +22,6 @@ Hello world! Welcome to my portfolio website.
 
 ## Assignment Links
 
-- [Introduction to Quarto](a01.html)
+- [Introduction to Quarto](Data-Science/portfolio/CopyOfa01_quarto_literate_analysis.html)
 
-- [Data Cleaning Assignment](CopyOfa03.html)
+- [Data Cleaning Assignment](Data-Science/portfolio/CopyOfa03.html)
